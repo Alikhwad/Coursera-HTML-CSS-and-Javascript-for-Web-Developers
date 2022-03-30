@@ -4,3 +4,6 @@ body {
     color: #fff;
     background-color: #61122f;
 }
+p {
+    font-weight: 900;
+}
