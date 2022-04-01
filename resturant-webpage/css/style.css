@@ -4,6 +4,8 @@ body {
     color: #fff;
     background-color: #61122f;
 }
-p {
-    font-weight: 900;
+#header-nav {
+    background-color: yellow;
+    border-radius: 0%;
+    border: 0;
 }
