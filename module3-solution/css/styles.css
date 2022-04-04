@@ -1,0 +1,9 @@
+body {
+    background-color: tomato;
+}
+
+#header-nav {
+    background-color: aliceblue;
+    border-radius: 0%;
+    border: 0;
+}
