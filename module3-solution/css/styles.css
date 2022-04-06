@@ -3,6 +3,7 @@
 body {
     background-color: tomato;
     font-family: 'Montserrat', sans-serif;
+    position: relative;
 }
 
 .navbar-brand h1 {
@@ -21,6 +22,16 @@ a {
     border: 0;
 }
 
-@media (min-width:576px) {
-    /* .navbar-expand-sm */
+h2,
+h3 {
+    text-align: center;
+}
+
+section {
+    padding: 10px;
+    width: 100%;
+    background-color: aliceblue;
+    margin: 0 0 10px 10px;
+    float: left;
+    overflow: auto;
 }
