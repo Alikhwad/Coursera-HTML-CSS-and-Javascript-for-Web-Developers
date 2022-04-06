@@ -27,11 +27,17 @@ h3 {
     text-align: center;
 }
 
+.row {
+    clear: both;
+}
+
 section {
     padding: 10px;
+    position: relative;
     text-align: justify;
-    /* background-color: aliceblue; */
-    margin: 0 0 10px 0;
+    background-color: aliceblue;
+    margin: 0 auto 15px;
+    border: 2px solid #3F0C1F;
     float: left;
     overflow: hidden;
     box-sizing: border-box;
