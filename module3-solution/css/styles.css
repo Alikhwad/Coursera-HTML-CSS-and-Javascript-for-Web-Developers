@@ -29,9 +29,10 @@ h3 {
 
 section {
     padding: 10px;
-    width: 100%;
-    background-color: aliceblue;
-    margin: 0 0 10px 10px;
+    text-align: justify;
+    /* background-color: aliceblue; */
+    margin: 0 0 10px 0;
     float: left;
-    overflow: auto;
+    overflow: hidden;
+    box-sizing: border-box;
 }
